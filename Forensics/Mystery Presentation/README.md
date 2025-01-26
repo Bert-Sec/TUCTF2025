@@ -1,0 +1,15 @@
+# Mystery Presentation
+**Category**: Forensics
+
+**Value**: 50
+
+**ID**: 6
+
+## Challenge Description
+```
+We recently got this absolutely non-sensical presentation from a confidential informant, along with a notes that said "The truth hurts boomers, but it's what on the inside that counts <3". We can't make heads or tails of it, but it has to be important! Can you help us out?
+```
+
+## Write-ups & Solutions
+- Blog: [BertSec Blog](https://bertsec.com)
+- Video Walkthrough: [YouTube](https://www.youtube.com/@BertSec)
